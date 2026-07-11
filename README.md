@@ -2,8 +2,6 @@
 
 A terminal-based text RPG in Python — choose a hero, battle through 4 floors of villains, and climb the Hall of Legends.
 
-> Python Project — Semester 2 · Group 8
-
 ---
 
 ## About
@@ -76,10 +74,6 @@ python run_game.py
 ## Tech Stack
 
 Pure Python and the standard library (`os`, `json`, `random`, `time`), plus `pandas` for statistics tracking. No external game engine — the visual layer (colored bars, bordered panels, logo) is built entirely from custom terminal formatting and ANSI escape codes.
-
-## Contributors
-
-Group 8 — Python Project, Semester 2
 
 ---
 
